@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    font-family: 'DM Serif Display', serif;
+    color: #1a1a1a;
+    outline: 0;
+    overflow: hidden;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+#search-bar {
+    border: 2px solid #7ec4aa;
+}
+
+.nav-text {
+    letter-spacing: 2.52px;
+    font-weight: 600 !important;
+    border-bottom-width: 50px;
+}
